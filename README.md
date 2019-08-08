@@ -7,8 +7,12 @@ This is a second change.
 # What you learned
 Terminology
 --clone
+
 --status
+
 --add
+
 --commit
+
 --push
 
