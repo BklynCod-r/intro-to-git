@@ -17,3 +17,7 @@ Terminology
 
 --push
 
+# Git From Academind YouTube Chanel
+
+Learned more on branches and merges
+
